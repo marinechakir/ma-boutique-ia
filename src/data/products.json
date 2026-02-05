@@ -28,12 +28,11 @@
     "name": "Blender Portable USB-C",
     "price": 29.99,
     "description": "350ML Electric Juicer. 6 lames inox, rechargeable USB-C, mixe en 30 secondes.",
-    "image": "https://cf.cjdropshipping.com/237d3727-aa0a-46f4-bb0b-1aa7570a4c14.jpg",
+    "image": "/images/blender-1.jpg",
     "images": [
-      "https://cf.cjdropshipping.com/237d3727-aa0a-46f4-bb0b-1aa7570a4c14.jpg",
-      "https://cf.cjdropshipping.com/c9026ba9-2b1b-40b7-a864-5c953d0740f9.png",
-      "https://cf.cjdropshipping.com/3a286ae8-4639-4cc2-8bcd-95e237708e78.jpg",
-      "https://cf.cjdropshipping.com/d6917aea-b42d-4f58-9b72-69aea89935f3.jpg"
+      "/images/blender-1.jpg",
+      "/images/blender-2.jpg",
+      "/images/blender-3.jpg"
     ],
     "imageSource": "cj_dropshipping",
     "imageAuditStatus": "verified",
