@@ -274,83 +274,121 @@ export async function getTracking(orderNumber: string) {
 }
 
 // Product mapping - map our product IDs to CJ variant IDs
-// VIDs validated from CJ Dropshipping API search results
+// Updated from CJ Dropshipping URLs on 2026-02-05
 export const PRODUCT_CJ_MAPPING: Record<string, {
   vid: string
   cjProductId: string
   sku: string
-  variants?: Record<string, string> // size -> vid mapping
+  spu: string
+  variants?: Record<string, { vid: string; sku: string }>
 }> = {
-  // Shapewear - Butt Lifting Tummy Control (real CJ product)
-  'body-sculptant-premium': {
-    vid: '2602050719171622300', // Default: Black M
-    cjProductId: '2602050719171622000',
-    sku: 'CJJS275496801AZ',
-    variants: {
-      'M': '2602050719171622300',
-      'L': '2602050719171622900',
-      'XL': '2602050719171623300',
-      '2XL': '2602050719171623900',
-    }
+  // === TECH PRODUCTS ===
+
+  // Mini Projecteur HD 4K - Ultra Short Focus Hy300
+  'mini-projector-2025': {
+    vid: '',
+    cjProductId: '2504250205361610700',
+    sku: 'CJYD2362075',
+    spu: 'CJYD2362075',
   },
-  'body-seamless-vneck': {
+
+  // Blender Portable USB - 350ML Electric Juicer
+  'portable-blender-usb': {
+    vid: '',
+    cjProductId: '1392009095543918592',
+    sku: 'CJJD1123188',
+    spu: 'CJJD1123188',
+  },
+
+  // Station de Charge 3-en-1 - 3 In 1 Magnetic Foldable Wireless Charger
+  'wireless-charger-3in1': {
+    vid: '',
+    cjProductId: '1619525256841015296',
+    sku: 'CJCD1670287',
+    spu: 'CJCD1670287',
+  },
+
+  // === SHAPEWEAR PRODUCTS ===
+
+  // Body Sculptant Premium - Butt Lifting Tummy Control Pants
+  'body-sculptant-premium': {
     vid: '2602050719171622300',
     cjProductId: '2602050719171622000',
     sku: 'CJJS275496801AZ',
+    spu: 'CJJS2754968',
     variants: {
-      'S': '2602050719171622300',
-      'M': '2602050719171622900',
-      'L': '2602050719171623300',
+      'M': { vid: '2602050719171622300', sku: 'CJJS275496801AZ' },
+      'L': { vid: '2602050719171622900', sku: 'CJJS275496802BY' },
+      'XL': { vid: '2602050719171623300', sku: 'CJJS275496803CX' },
+      'XXL': { vid: '2602050719171623900', sku: 'CJJS275496804DW' },
+      'M-Chocolat': { vid: '2602050719171624200', sku: 'CJJS275496805EV' },
+      'L-Chocolat': { vid: '2602050719171624600', sku: 'CJJS275496806FU' },
+      'M-Nude': { vid: '2602050719171626100', sku: 'CJJS275496809IR' },
+      'L-Nude': { vid: '2602050719171626300', sku: 'CJJS275496810JQ' },
     }
   },
-  'body-manches-longues': {
-    vid: '2602050719171622900',
-    cjProductId: '2602050719171622000',
-    sku: 'CJJS275496802BY',
-    variants: {
-      'M': '2602050719171622300',
-      'L': '2602050719171622900',
-      'XL': '2602050719171623300',
-    }
+
+  // Body Seamless Bretelles - Women's Suspender Jumpsuit
+  'body-seamless-bretelles': {
+    vid: '',
+    cjProductId: '1735207991432982528',
+    sku: 'CJYD1920929',
+    spu: 'CJYD1920929',
   },
-  // Tech products - Real CJ SKUs with VIDs
-  'mini-projector-2025': {
-    vid: '1403920149429489664', // Silver EU plug
-    cjProductId: '1403626672510603264',
-    sku: 'CJTY117181702BY',
-    variants: {
-      'EU': '1403920149429489664',
-      'UK': '1403920149442072576',
-      'US': '1403920149450461184',
-    }
-  },
-  'portable-blender-usb': {
-    vid: '1392009096881901568', // Default color
-    cjProductId: '1392009095543918592',
-    sku: 'CJJD112318810JQ',
-    variants: {
-      'White': '1392009096881901568',
-      'Pink': '1392009096907067392',
-      'Blue': '1432603757165809664',
-    }
-  },
-  'wireless-charger-3in1': {
-    vid: '1619525256924901376', // Default
-    cjProductId: '1619525256841015296',
-    sku: 'CJCD167028701AZ',
+
+  // Short Gainant Post-Partum - SEAMLESS Postpartum Shapewear
+  'shapewear-short-postpartum': {
+    vid: '',
+    cjProductId: '1866761878916452352',
+    sku: 'CJLS2240658',
+    spu: 'CJLS2240658',
   },
 }
 
 /**
- * Get the correct VID based on selected size
+ * Get the correct VID based on selected size and color
  */
-export function getVariantId(productId: string, selectedSize?: string): string | null {
+export function getVariantId(productId: string, selectedSize?: string, selectedColor?: string): string | null {
   const mapping = PRODUCT_CJ_MAPPING[productId]
   if (!mapping) return null
 
-  if (selectedSize && mapping.variants?.[selectedSize]) {
-    return mapping.variants[selectedSize]
+  if (selectedSize && mapping.variants) {
+    // Try with color suffix first (e.g., "M-Chocolat")
+    if (selectedColor) {
+      const keyWithColor = `${selectedSize}-${selectedColor}`
+      if (mapping.variants[keyWithColor]) {
+        return mapping.variants[keyWithColor].vid
+      }
+    }
+    // Fall back to size only
+    if (mapping.variants[selectedSize]) {
+      return mapping.variants[selectedSize].vid
+    }
   }
 
   return mapping.vid
+}
+
+/**
+ * Get variant info (VID + SKU) based on selected size and color
+ */
+export function getVariantInfo(productId: string, selectedSize?: string, selectedColor?: string): { vid: string; sku: string } | null {
+  const mapping = PRODUCT_CJ_MAPPING[productId]
+  if (!mapping) return null
+
+  if (selectedSize && mapping.variants) {
+    // Try with color suffix first
+    if (selectedColor) {
+      const keyWithColor = `${selectedSize}-${selectedColor}`
+      if (mapping.variants[keyWithColor]) {
+        return mapping.variants[keyWithColor]
+      }
+    }
+    // Fall back to size only
+    if (mapping.variants[selectedSize]) {
+      return mapping.variants[selectedSize]
+    }
+  }
+
+  return { vid: mapping.vid, sku: mapping.sku }
 }

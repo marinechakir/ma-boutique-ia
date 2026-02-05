@@ -1,74 +1,77 @@
 [
   {
     "id": "mini-projector-2025",
-    "name": "Mini Projecteur HD 1080p",
+    "name": "Mini Projecteur HD 4K",
     "price": 89.99,
-    "description": "Transformez n'importe quel mur en cinéma. Image HD cristalline jusqu'à 120 pouces.",
-    "image": "https://cf.cjdropshipping.com/1623485523521.jpg",
+    "description": "Ultra Short Focus Hy300 HD 4K. Transformez n'importe quel mur en cinéma.",
+    "image": "https://cf.cjdropshipping.com/quick/product/01273fb2-c8e9-487c-a9d3-c71054b1f5f3.jpg",
     "images": [
-      "https://cf.cjdropshipping.com/1623485523521.jpg",
-      "https://cf.cjdropshipping.com/1623485523516.jpg",
-      "https://cf.cjdropshipping.com/1623485523518.jpg",
-      "https://cf.cjdropshipping.com/1623485523520.jpg"
+      "https://cf.cjdropshipping.com/quick/product/01273fb2-c8e9-487c-a9d3-c71054b1f5f3.jpg",
+      "https://cf.cjdropshipping.com/quick/product/a8a3d463-ea2d-4cf5-bfdf-fb7a80f868be.jpg",
+      "https://cf.cjdropshipping.com/quick/product/687437d5-a731-4296-8fcb-e01cd4c8724a.jpg",
+      "https://oss-cf.cjdropshipping.com/product/2025/11/26/02/684cda1b-6b4a-4ee9-a43d-581f1686dde4.jpg"
     ],
     "imageSource": "cj_dropshipping",
     "imageAuditStatus": "verified",
     "category": "tech",
     "trending": true,
-    "longDescription": "Découvrez le mini projecteur qui a révolutionné les soirées Netflix. Avec sa résolution HD 1080p native, ce projecteur compact transforme instantanément n'importe quel mur en écran de cinéma de 30 à 120 pouces. Connectivité WiFi et Bluetooth intégrée pour streamer depuis votre téléphone. Batterie rechargeable de 4h d'autonomie. Haut-parleurs stéréo intégrés. Le compagnon parfait pour vos cozy nights, camping ou présentations professionnelles.",
+    "longDescription": "Découvrez le mini projecteur qui a révolutionné les soirées Netflix. Avec sa résolution HD 4K native, ce projecteur ultra compact transforme instantanément n'importe quel mur en écran de cinéma de 30 à 120 pouces. Ultra Short Focus pour projection à courte distance. Connectivité WiFi et Bluetooth intégrée pour streamer depuis votre téléphone. Haut-parleurs stéréo intégrés. Le compagnon parfait pour vos cozy nights, camping ou présentations professionnelles.",
     "valentineGift": true,
-    "valentineDescription": "Le cadeau parfait pour la Saint-Valentin : Transformez votre chambre en cinema prive pour une soiree romantique inoubliable. Plus intime qu'un restaurant, plus memorable qu'un bouquet de roses. Creez des souvenirs a deux sous les etoiles projetees sur votre plafond.",
-    "cj_sku": "CJTY117181702BY",
-    "cj_vid": "1403920149429489664",
-    "cj_product_id": "1403626672510603264"
+    "valentineDescription": "Le cadeau parfait pour la Saint-Valentin : Transformez votre chambre en cinema prive pour une soiree romantique inoubliable.",
+    "cj_product_id": "2504250205361610700",
+    "cj_spu": "CJYD2362075",
+    "cj_price_usd": 24.88,
+    "inventory": 50193
   },
   {
     "id": "portable-blender-usb",
     "name": "Blender Portable USB-C",
     "price": 29.99,
-    "description": "6 lames inox, rechargeable USB-C, mixe en 30 secondes. 20 smoothies par charge.",
+    "description": "350ML Electric Juicer. 6 lames inox, rechargeable USB-C, mixe en 30 secondes.",
     "image": "https://cf.cjdropshipping.com/237d3727-aa0a-46f4-bb0b-1aa7570a4c14.jpg",
     "images": [
       "https://cf.cjdropshipping.com/237d3727-aa0a-46f4-bb0b-1aa7570a4c14.jpg",
       "https://cf.cjdropshipping.com/c9026ba9-2b1b-40b7-a864-5c953d0740f9.png",
       "https://cf.cjdropshipping.com/3a286ae8-4639-4cc2-8bcd-95e237708e78.jpg",
-      "https://cf.cjdropshipping.com/c179a293-c7db-47dd-b67b-74b0b6f081cc.png"
+      "https://cf.cjdropshipping.com/d6917aea-b42d-4f58-9b72-69aea89935f3.jpg"
     ],
     "imageSource": "cj_dropshipping",
     "imageAuditStatus": "verified",
     "category": "kitchen",
     "trending": true,
-    "longDescription": "Le blender qui a cassé TikTok avec plus de 50 millions de vues. 6 lames en acier inoxydable chirurgical qui pulvérisent fruits, légumes et glaçons en 30 secondes chrono. Rechargeable via USB-C universel - 20 smoothies par charge complète. Capacité 380ml parfaite pour une portion. Emportez-le à la salle, au bureau, en voyage. BPA-free, facile à nettoyer. Fini les smoothies à 8€, rentabilisé en 4 jours.",
-    "cj_sku": "CJJD112318810JQ",
-    "cj_vid": "1392009096881901568",
-    "cj_product_id": "1392009095543918592"
+    "longDescription": "Le blender qui a cassé TikTok avec plus de 50 millions de vues. 6 lames en acier inoxydable chirurgical qui pulvérisent fruits, légumes et glaçons en 30 secondes chrono. Rechargeable via USB-C universel - 20 smoothies par charge complète. Capacité 380ml parfaite pour une portion. Emportez-le à la salle, au bureau, en voyage. BPA-free, facile à nettoyer.",
+    "cj_product_id": "1392009095543918592",
+    "cj_spu": "CJJD1123188",
+    "cj_price_usd": 1.73,
+    "inventory": 311102
   },
   {
     "id": "wireless-charger-3in1",
     "name": "Station de Charge 3-en-1",
     "price": 45.99,
-    "description": "Charge iPhone + Apple Watch + AirPods simultanément. 15W fast charge, design pliable.",
-    "image": "https://cf.cjdropshipping.com/73873978-3774-4732-897f-179e0dec507b.jpg",
+    "description": "3 In 1 Magnetic Foldable Wireless Charger. iPhone + Apple Watch + AirPods simultanément.",
+    "image": "https://cf.cjdropshipping.com/08837b38-7366-439f-aa0e-92438cc94457.jpg",
     "images": [
-      "https://cf.cjdropshipping.com/73873978-3774-4732-897f-179e0dec507b.jpg",
       "https://cf.cjdropshipping.com/08837b38-7366-439f-aa0e-92438cc94457.jpg",
       "https://cf.cjdropshipping.com/18fab56a-033c-47c8-8213-09fec07798fb.jpg",
-      "https://cf.cjdropshipping.com/57c36321-7058-460f-8073-fbc702b7476a.jpg"
+      "https://oss-cf.cjdropshipping.com/product/2024/03/30/09/c5e623f7-0349-4528-8b22-e32d0339c1c1.jpg",
+      "https://cf.cjdropshipping.com/82e82e90-1283-4fd4-add0-7ffbb2c104af.png"
     ],
     "imageSource": "cj_dropshipping",
     "imageAuditStatus": "verified",
     "category": "tech",
     "trending": true,
-    "longDescription": "Fini le chaos des câbles. Cette station de charge élégante accueille simultanément votre iPhone (charge rapide 15W MagSafe), votre Apple Watch et vos AirPods. Design pliable ultra-compact pour voyager. Indicateur LED discret. Compatible avec toutes les générations d'iPhone 12+, Apple Watch et AirPods. L'accessoire minimaliste que votre bureau mérite. Setup clean garanti.",
-    "cj_sku": "CJCD167028701AZ",
-    "cj_vid": "1619525256924901376",
-    "cj_product_id": "1619525256841015296"
+    "longDescription": "Fini le chaos des câbles. Cette station de charge élégante accueille simultanément votre iPhone (charge rapide 15W MagSafe), votre Apple Watch et vos AirPods. Design pliable ultra-compact pour voyager. Indicateur LED discret. Compatible avec toutes les générations d'iPhone 12+, Apple Watch et AirPods. L'accessoire minimaliste que votre bureau mérite.",
+    "cj_product_id": "1619525256841015296",
+    "cj_spu": "CJCD1670287",
+    "cj_price_usd": 15.77,
+    "inventory": 12676
   },
   {
     "id": "body-sculptant-premium",
     "name": "Body Sculptant Premium",
     "price": 34.99,
-    "description": "Effet seconde peau, compression ciblée tummy control. Le dupe Skims viral sur TikTok.",
+    "description": "Butt Lifting Tummy Control. Effet seconde peau, compression ciblée. Le dupe Skims viral sur TikTok.",
     "image": "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/b04c0041-3778-4d1a-8fab-dc7872343d50.jpg",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/b04c0041-3778-4d1a-8fab-dc7872343d50.jpg",
@@ -80,15 +83,14 @@
     "imageAuditStatus": "verified",
     "category": "shapewear",
     "trending": true,
-    "longDescription": "Le body sculptant qui a rendu Skims jaloux. Tissu seamless ultra-doux qui épouse parfaitement vos courbes sans marquer. Compression graduée ciblée sur le ventre pour un effet tummy control immédiat. Bretelles ajustables, ouverture entrejambe pratique. Disponible du XS au 3XL pour célébrer tous les corps. Invisible sous vos vêtements, confortable toute la journée. Plus de 50 millions de vues sur TikTok. Snatched en 2 secondes.",
+    "longDescription": "Le body sculptant qui a rendu Skims jaloux. Tissu seamless ultra-doux qui épouse parfaitement vos courbes sans marquer. Compression graduée ciblée sur le ventre pour un effet tummy control immédiat. Bretelles ajustables, ouverture entrejambe pratique. Disponible du XS au 3XL pour célébrer tous les corps. Invisible sous vos vêtements, confortable toute la journée.",
     "valentineGift": true,
-    "valentineDescription": "Le cadeau parfait pour la Saint-Valentin : Offrez-lui la confiance et le bien-etre. Ce body est le secret que toutes les femmes souhaitent recevoir - un cadeau qui dit 'je veux que tu te sentes incroyable'. Plus personnel qu'un bijou, plus utile qu'un parfum. Elle pensera a vous chaque fois qu'elle le portera.",
+    "valentineDescription": "Le cadeau parfait pour la Saint-Valentin : Offrez-lui la confiance et le bien-etre.",
     "sizes": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
     "colors": [
       { "name": "Noir", "hex": "#1a1a1a" },
       { "name": "Chocolat", "hex": "#3d2314" },
-      { "name": "Nude", "hex": "#d4a574" },
-      { "name": "Burgundy", "hex": "#722f37" }
+      { "name": "Nude", "hex": "#d4a574" }
     ],
     "sizeGuide": {
       "sizes": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
@@ -102,26 +104,28 @@
         { "size": "3XL", "bust": "106-111", "waist": "88-93", "hips": "114-119" }
       ]
     },
-    "cj_sku": "CJJS275496801AZ",
-    "cj_vid": "2602050719171622300",
-    "cj_product_id": "2602050719171622000"
+    "cj_product_id": "2602050719171622000",
+    "cj_spu": "CJJS2754968",
+    "cj_price_usd": 1.84,
+    "inventory": 81542
   },
   {
-    "id": "body-seamless-vneck",
-    "name": "Body Seamless Col V",
+    "id": "body-seamless-bretelles",
+    "name": "Body Seamless Bretelles",
     "price": 28.99,
-    "description": "Col V plongeant, seamless invisible, compression douce. Le basic parfait.",
-    "image": "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/e11be9e4-eeb7-470a-9182-2e1ea5954685.jpg",
+    "description": "Women's Suspender Jumpsuit. Seamless invisible, compression douce. Le basic parfait.",
+    "image": "https://oss-cf.cjdropshipping.com/product/2024/01/10/08/9a8c36de-1fd7-4fa9-921e-5e551eee9654.jpg",
     "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/e11be9e4-eeb7-470a-9182-2e1ea5954685.jpg",
-      "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/b04c0041-3778-4d1a-8fab-dc7872343d50.jpg",
-      "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/9ebd36fd-be6b-44e8-b03c-baf654b67716.jpg"
+      "https://oss-cf.cjdropshipping.com/product/2024/01/10/08/9a8c36de-1fd7-4fa9-921e-5e551eee9654.jpg",
+      "https://cf.cjdropshipping.com/quick/product/c4ae83fc-3096-4e01-8948-1baa82c04604.jpg",
+      "https://cf.cjdropshipping.com/quick/product/7cc39d42-6828-4dea-98a4-de98d91c13e5.jpg",
+      "https://oss-cf.cjdropshipping.com/product/2024/01/08/05/e14d6768-1f1f-41ba-83fe-2a354ce2bc20.jpg"
     ],
     "imageSource": "cj_dropshipping",
     "imageAuditStatus": "verified",
     "category": "shapewear",
     "trending": true,
-    "longDescription": "Le body col V qui va avec absolument tout. Décolleté élégant qui allonge la silhouette. Tissu seamless premium zéro coutures visibles. Compression légère pour un maintien confortable toute la journée. Parfait seul avec un jean taille haute ou sous un blazer. Le basic que votre dressing attend depuis toujours.",
+    "longDescription": "Le body bretelles qui va avec absolument tout. Design élégant qui allonge la silhouette. Tissu seamless premium zéro coutures visibles. Compression légère pour un maintien confortable toute la journée. Parfait seul avec un jean taille haute ou sous un blazer. Le basic que votre dressing attend depuis toujours.",
     "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
     "colors": [
       { "name": "Noir", "hex": "#1a1a1a" },
@@ -139,44 +143,47 @@
         { "size": "XXL", "bust": "101-106", "waist": "83-88", "hips": "109-114" }
       ]
     },
-    "cj_sku": "CJJS275496801AZ",
-    "cj_vid": "2602050719171622300",
-    "cj_product_id": "2602050719171622000"
+    "cj_product_id": "1735207991432982528",
+    "cj_spu": "CJYD1920929",
+    "cj_price_usd": 0.68,
+    "inventory": 1237590
   },
   {
-    "id": "body-manches-longues",
-    "name": "Body Sculptant Manches Longues",
+    "id": "shapewear-short-postpartum",
+    "name": "Short Gainant Post-Partum",
     "price": 39.99,
-    "description": "Manches longues gainantes, col rond, effet seconde peau. Élégance maximale.",
-    "image": "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/3077fce9-a669-4175-bc9f-cbcc471c3f54.jpg",
+    "description": "SEAMLESS Postpartum Shapewear. Sculptant cuisses et ventre. Livraison rapide.",
+    "image": "https://cf.cjdropshipping.com/c1249ee3-1cae-4368-b680-d5cc04066238.png",
     "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/3077fce9-a669-4175-bc9f-cbcc471c3f54.jpg",
-      "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/2fdb45fd-44ec-459c-8e7d-0c72f619c254.jpg",
-      "https://oss-cf.cjdropshipping.com/product/2026/02/05/07/b04c0041-3778-4d1a-8fab-dc7872343d50.jpg"
+      "https://cf.cjdropshipping.com/c1249ee3-1cae-4368-b680-d5cc04066238.png",
+      "https://cf.cjdropshipping.com/b97334b9-9e60-4968-8314-656d4e6898fc.png",
+      "https://cf.cjdropshipping.com/e53115ed-cf34-46bc-aeda-cb9a21839f4a.png",
+      "https://cf.cjdropshipping.com/fb791704-300b-4cd1-ad60-d3236aa47590.png"
     ],
     "imageSource": "cj_dropshipping",
     "imageAuditStatus": "verified",
     "category": "shapewear",
     "trending": true,
-    "longDescription": "L'arme secrète des fashionistas. Body sculptant à manches longues qui affine les bras et galbe le buste. Col rond classique adapté à tous les styles. Tissu technique respirant qui régule la température. Compression stratégique pour une silhouette harmonieuse. Du bureau au dîner sans se changer. Le body que les influenceuses gardent secret.",
-    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "longDescription": "Le short gainant post-partum qui sculpte et affine. Compression ciblée sur l'abdomen, les hanches et les cuisses. Tissu seamless respirant et confortable toute la journée. Idéal après accouchement ou pour un effet silhouette immédiat. Invisible sous les vêtements. Mid-thigh pour un galbe naturel.",
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL"],
     "colors": [
       { "name": "Noir", "hex": "#1a1a1a" },
-      { "name": "Chocolat", "hex": "#3d2314" }
+      { "name": "Nude", "hex": "#d4a574" }
     ],
     "sizeGuide": {
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "sizes": ["S", "M", "L", "XL", "XXL", "3XL"],
       "measurements": [
-        { "size": "XS", "bust": "76-81", "waist": "58-63", "hips": "84-89" },
         { "size": "S", "bust": "81-86", "waist": "63-68", "hips": "89-94" },
         { "size": "M", "bust": "86-91", "waist": "68-73", "hips": "94-99" },
         { "size": "L", "bust": "91-96", "waist": "73-78", "hips": "99-104" },
         { "size": "XL", "bust": "96-101", "waist": "78-83", "hips": "104-109" },
-        { "size": "XXL", "bust": "101-106", "waist": "83-88", "hips": "109-114" }
+        { "size": "XXL", "bust": "101-106", "waist": "83-88", "hips": "109-114" },
+        { "size": "3XL", "bust": "106-111", "waist": "88-93", "hips": "114-119" }
       ]
     },
-    "cj_sku": "CJJS275496802BY",
-    "cj_vid": "2602050719171622900",
-    "cj_product_id": "2602050719171622000"
+    "cj_product_id": "1866761878916452352",
+    "cj_spu": "CJLS2240658",
+    "cj_price_usd": 15.97,
+    "inventory": 400
   }
 ]
