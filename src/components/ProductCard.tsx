@@ -58,9 +58,11 @@ export default function ProductCard({ product }: ProductCardProps) {
               alt={product.name}
             />
           ) : (
-            <div className="w-full h-full flex items-center justify-center text-6xl bg-gradient-to-br from-gray-100 to-gray-200">
-              {product.image}
-            </div>
+            <img
+              src={product.image}
+              alt={product.name}
+              className="w-full h-full object-cover"
+            />
           )}
         </div>
 

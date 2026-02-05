@@ -135,16 +135,29 @@ export function ProductPremiumImage({
   alt: string
   className?: string
 }) {
+  const isLocalImage = src.startsWith('/')
+
   return (
     <div className={`relative w-full h-full ${className}`}>
-      <PremiumImage
-        src={src}
-        alt={alt}
-        fill
-        filter="apple"
-        cropInset={2} // Slight crop to remove edge artifacts
-        className="object-cover"
-      />
+      {isLocalImage ? (
+        <img
+          src={src}
+          alt={alt}
+          className="w-full h-full object-cover"
+          style={{
+            filter: 'brightness(1.08) contrast(1.1) saturate(0.92)',
+          }}
+        />
+      ) : (
+        <PremiumImage
+          src={src}
+          alt={alt}
+          fill
+          filter="apple"
+          cropInset={2}
+          className="object-cover"
+        />
+      )}
       {/* Subtle vignette overlay for premium look */}
       <div
         className="absolute inset-0 pointer-events-none"
