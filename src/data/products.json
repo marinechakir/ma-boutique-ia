@@ -4,12 +4,12 @@
     "name": "Mini Projecteur HD 4K",
     "price": 89.99,
     "description": "Ultra Short Focus Hy300 HD 4K. Transformez n'importe quel mur en cinéma.",
-    "image": "https://cf.cjdropshipping.com/quick/product/01273fb2-c8e9-487c-a9d3-c71054b1f5f3.jpg",
+    "image": "/images/projector-1.jpg",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/01273fb2-c8e9-487c-a9d3-c71054b1f5f3.jpg",
-      "https://cf.cjdropshipping.com/quick/product/a8a3d463-ea2d-4cf5-bfdf-fb7a80f868be.jpg",
-      "https://cf.cjdropshipping.com/quick/product/687437d5-a731-4296-8fcb-e01cd4c8724a.jpg",
-      "https://oss-cf.cjdropshipping.com/product/2025/11/26/02/684cda1b-6b4a-4ee9-a43d-581f1686dde4.jpg"
+      "/images/projector-1.jpg",
+      "/images/projector-2.jpg",
+      "/images/projector-3.jpg",
+      "/images/projector-4.jpg"
     ],
     "imageSource": "cj_dropshipping",
     "imageAuditStatus": "verified",
