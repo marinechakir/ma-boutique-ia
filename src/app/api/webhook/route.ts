@@ -32,7 +32,8 @@ export async function POST(request: NextRequest) {
         ? JSON.parse(session.metadata.order_items)
         : []
 
-      const shippingDetails = session.shipping_details
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const shippingDetails = (session as any).shipping_details
 
       if (shippingDetails && orderItems.length > 0) {
         // Trigger fulfillment

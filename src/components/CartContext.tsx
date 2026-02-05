@@ -5,7 +5,7 @@ import { Product, CartItem } from '@/types/product'
 
 interface CartContextType {
   items: CartItem[]
-  addToCart: (product: Product) => void
+  addToCart: (product: Product & { selectedSize?: string; selectedColor?: string }) => void
   removeFromCart: (productId: string) => void
   updateQuantity: (productId: string, quantity: number) => void
   clearCart: () => void
@@ -21,12 +21,15 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [items, setItems] = useState<CartItem[]>([])
   const [isOpen, setIsOpen] = useState(false)
 
-  const addToCart = (product: Product) => {
+  const addToCart = (product: Product & { selectedSize?: string; selectedColor?: string }) => {
     setItems(current => {
-      const existing = current.find(item => item.id === product.id)
+      const itemKey = `${product.id}-${product.selectedSize || ''}-${product.selectedColor || ''}`
+      const existing = current.find(item =>
+        `${item.id}-${item.selectedSize || ''}-${item.selectedColor || ''}` === itemKey
+      )
       if (existing) {
         return current.map(item =>
-          item.id === product.id
+          `${item.id}-${item.selectedSize || ''}-${item.selectedColor || ''}` === itemKey
             ? { ...item, quantity: item.quantity + 1 }
             : item
         )
