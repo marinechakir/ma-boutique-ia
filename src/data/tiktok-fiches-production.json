@@ -1,0 +1,428 @@
+{
+  "campagne": "DRIP. Saint-Valentin 2026",
+  "countdown": "J-9",
+  "date_limite_livraison": "14 fevrier 2026",
+  "urgence_badge": "LIVRAISON GARANTIE AVANT LE 14/02",
+
+  "fiche_1_projecteur": {
+    "produit": "Mini Projecteur HD 1080p",
+    "prix": "89,99€",
+    "angle": "Cinema prive romantique - Alternative au resto",
+    "duree_video": "25-35 secondes",
+
+    "images_cj": {
+      "principale": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=90",
+      "ambiance": "https://images.unsplash.com/photo-1585503418537-88331351ad99?w=800&q=90",
+      "lifestyle": "https://images.unsplash.com/photo-1626379961798-54f819ee896a?w=800&q=90"
+    },
+
+    "scenes_visuelles": {
+      "scene_1": {
+        "timing": "0-5 secondes",
+        "description_visuelle": "Plan serré sur un couple déçu regardant l'addition d'un resto (ou écran de réservation 'complet'). Lumière froide, ambiance frustrante.",
+        "action": "Transition swipe vers le bas",
+        "eclairage": "Lumière naturelle dure, légèrement surexposée",
+        "cadrage": "Gros plan visage puis plan moyen"
+      },
+      "scene_2": {
+        "timing": "5-15 secondes",
+        "description_visuelle": "Unboxing satisfaisant du projecteur. Mains qui sortent le produit de son emballage. Zoom sur la compacité (tenir dans une main). Le projecteur s'allume avec un léger reflet bleu sur le visage.",
+        "action": "Mouvements lents, ASMR-like",
+        "eclairage": "Ring light doux, fond neutre",
+        "cadrage": "Plan rapproché mains + produit, léger mouvement de caméra"
+      },
+      "scene_3": {
+        "timing": "15-30 secondes",
+        "description_visuelle": "LA TRANSFORMATION. Chambre dans le noir total. Le projecteur s'allume et projette sur le mur/plafond. Image Netflix visible. Puis reveal du setup complet: lit avec coussins, snacks, guirlandes lumineuses. Couple installé confortablement.",
+        "action": "Transition 'lights off' dramatique",
+        "eclairage": "Uniquement la lumière du projecteur + guirlandes",
+        "cadrage": "Plan large de la pièce, puis plan moyen du couple"
+      }
+    },
+
+    "overlays_texte": {
+      "hook_initial": {
+        "texte": "Le resto a 150€ etait complet...",
+        "timing": "0-3s",
+        "style": "Blanc, police bold, légère ombre",
+        "position": "Centre haut"
+      },
+      "revelation": {
+        "texte": "Alors j'ai créé NOTRE cinéma",
+        "timing": "5-8s",
+        "style": "Blanc avec accent rose",
+        "position": "Centre"
+      },
+      "prix": {
+        "texte": "89€ - UNE SEULE FOIS",
+        "timing": "15-18s",
+        "style": "Jaune/doré, bold, effet glow",
+        "position": "Bas centre"
+      },
+      "urgence": {
+        "texte": "LIVRAISON GARANTIE AVANT LE 14/02",
+        "timing": "25-30s",
+        "style": "Rouge/rose, animation pulse",
+        "position": "Bas avec bandeau"
+      },
+      "cta": {
+        "texte": "Lien en bio - DRIP.",
+        "timing": "28-32s",
+        "style": "Blanc sur fond noir semi-transparent",
+        "position": "Bas centre"
+      }
+    },
+
+    "script_voix_off": {
+      "ligne_1": "Le resto était complet. Encore.",
+      "ligne_2": "Alors j'ai fait mieux.",
+      "ligne_3": "89 euros. Netflix sur 120 pouces.",
+      "ligne_4": "Sur mon plafond.",
+      "ligne_5": "Elle a dit que c'était le meilleur date night de sa vie.",
+      "ligne_6": "Lien en bio. Plus que 9 jours avant le 14."
+    },
+
+    "musique_suggestions": [
+      "Romantic - Dua Lipa (trending sound)",
+      "Until I Found You - Stephen Sanchez",
+      "Die With A Smile - Lady Gaga & Bruno Mars",
+      "Original sound - cozy vibes aesthetic"
+    ],
+
+    "caption": "Le resto etait complet. Alors j'ai transforme ma chambre en cinema 5 etoiles pour 89€. Elle a dit que c'etait notre meilleur date night. Le secret? Ce mini projecteur viral qui projette en HD sur n'importe quel mur.\n\nPlus romantique qu'un resto. Plus memorable qu'un bouquet.\n\nLivraison garantie avant le 14 fevrier.\nLien en bio.",
+
+    "hashtags": [
+      "#SaintValentin2026",
+      "#CadeauSaintValentin",
+      "#DateNight",
+      "#TikTokMadeMeBuyIt",
+      "#Projecteur",
+      "#CinemaALaMaison",
+      "#CoupleGoals",
+      "#IdéeCadeau",
+      "#Romantique",
+      "#CozyNight"
+    ]
+  },
+
+  "fiche_2_body": {
+    "produit": "Body Sculptant Premium",
+    "prix": "34,99€",
+    "angle": "Le cadeau que les femmes veulent vraiment",
+    "duree_video": "20-30 secondes",
+
+    "images_cj": {
+      "principale": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=90",
+      "detail": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&q=90",
+      "lifestyle": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=800&q=90"
+    },
+
+    "scenes_visuelles": {
+      "scene_1": {
+        "timing": "0-5 secondes",
+        "description_visuelle": "Close-up sur des mains masculines tenant un paquet cadeau avec ruban. Puis reveal: c'est un body sculptant dans un packaging élégant.",
+        "action": "Slow motion unboxing",
+        "eclairage": "Lumière douce, tons chauds",
+        "cadrage": "Gros plan mains, puis plan moyen produit"
+      },
+      "scene_2": {
+        "timing": "5-15 secondes",
+        "description_visuelle": "Zoom macro sur le tissu seamless. Montrer la texture seconde peau. Étirer légèrement pour montrer la compression. Montrer les 4 couleurs disposées élégamment.",
+        "action": "Mouvements lents, satisfaisants",
+        "eclairage": "Lumière studio, fond blanc ou nude",
+        "cadrage": "Macro sur tissu, puis plan d'ensemble couleurs"
+      },
+      "scene_3": {
+        "timing": "15-25 secondes",
+        "description_visuelle": "Transformation subtile: femme avant (vêtements normaux) puis après (même outfit mais avec le body en dessous - silhouette plus galbée). Pas vulgaire, élégant. Finir sur son sourire de confiance.",
+        "action": "Transition 'snap' ou 'spin'",
+        "eclairage": "Éclairage flatteur, golden hour",
+        "cadrage": "Plan moyen, miroir possible"
+      }
+    },
+
+    "overlays_texte": {
+      "hook_initial": {
+        "texte": "Le cadeau qu'elle veut VRAIMENT",
+        "timing": "0-3s",
+        "style": "Blanc, élégant, police serif",
+        "position": "Centre"
+      },
+      "probleme": {
+        "texte": "Pas un parfum. Pas des fleurs.",
+        "timing": "3-6s",
+        "style": "Gris clair, barré",
+        "position": "Centre"
+      },
+      "solution": {
+        "texte": "LA CONFIANCE EN SOI",
+        "timing": "6-10s",
+        "style": "Rose gold, bold, glow effect",
+        "position": "Centre"
+      },
+      "specs": {
+        "texte": "Seamless • Tummy Control • XS-3XL",
+        "timing": "12-16s",
+        "style": "Blanc, minimaliste",
+        "position": "Bas"
+      },
+      "prix": {
+        "texte": "35€ - Le dupe Skims",
+        "timing": "18-22s",
+        "style": "Rose, bold",
+        "position": "Centre"
+      },
+      "urgence": {
+        "texte": "LIVRAISON GARANTIE AVANT LE 14/02",
+        "timing": "22-28s",
+        "style": "Rouge/rose, bandeau animé",
+        "position": "Bas"
+      }
+    },
+
+    "script_voix_off": {
+      "ligne_1": "Les mecs pensent bijoux, parfum...",
+      "ligne_2": "Mais le vrai cadeau?",
+      "ligne_3": "C'est la confiance en soi.",
+      "ligne_4": "Ce body? C'est le secret des filles qui rayonnent.",
+      "ligne_5": "Seamless. Invisible. Effet wow.",
+      "ligne_6": "35 euros. Elle te remerciera. Lien en bio."
+    },
+
+    "musique_suggestions": [
+      "Woman - Doja Cat",
+      "Good Days - SZA",
+      "About Damn Time - Lizzo",
+      "Original sound - GRWM aesthetic"
+    ],
+
+    "caption": "Le cadeau qu'elle veut vraiment pour la Saint-Valentin (indice: c'est pas des fleurs).\n\nCe body sculptant viral fait le meme effet que Skims. Pour 35€.\n\nSeamless. Tummy control. Effet seconde peau.\nDisponible du XS au 3XL parce que tous les corps meritent de se sentir incroyables.\n\n50M+ de vues sur TikTok. Y'a une raison.\n\nLivraison garantie avant le 14/02.\nLien en bio.",
+
+    "hashtags": [
+      "#SaintValentin2026",
+      "#Shapewear",
+      "#SkimsDupe",
+      "#BodyPositivity",
+      "#CadeauFemme",
+      "#TikTokMadeMeBuyIt",
+      "#GRWM",
+      "#ConfidenceBoost",
+      "#TummyControl",
+      "#IdéeCadeau"
+    ]
+  },
+
+  "fiche_3_compilation": {
+    "produit": "Compilation 3 Cadeaux",
+    "angle": "3 gadgets pour ne pas finir celibataire le 15 fevrier",
+    "duree_video": "35-45 secondes",
+
+    "scenes_visuelles": {
+      "scene_1": {
+        "timing": "0-5 secondes",
+        "description_visuelle": "Face cam dramatique. Personne qui regarde la caméra avec un air sérieux puis sourire complice. Fond simple.",
+        "action": "Léger zoom in",
+        "eclairage": "Ring light standard",
+        "cadrage": "Plan poitrine, centré"
+      },
+      "scene_2": {
+        "timing": "5-15 secondes",
+        "description_visuelle": "GADGET 1 - Projecteur. Quick cuts: unboxing, allumage, projection sur mur, couple qui regarde un film.",
+        "action": "Cuts rapides, dynamiques",
+        "eclairage": "Varié selon les plans",
+        "cadrage": "Mix gros plans et plans moyens"
+      },
+      "scene_3": {
+        "timing": "15-25 secondes",
+        "description_visuelle": "GADGET 2 - Body. Quick cuts: packaging élégant, zoom tissu, transformation silhouette.",
+        "action": "Transitions fluides",
+        "eclairage": "Doux, flatteur",
+        "cadrage": "Plans élégants"
+      },
+      "scene_4": {
+        "timing": "25-35 secondes",
+        "description_visuelle": "GADGET 3 - Station de charge. Quick cuts: setup minimaliste, 3 appareils en charge, bureau clean.",
+        "action": "Plans satisfaisants",
+        "eclairage": "Studio clean",
+        "cadrage": "Plans produit"
+      },
+      "scene_5": {
+        "timing": "35-45 secondes",
+        "description_visuelle": "Retour face cam. Compte à rebours visuel 'J-9'. CTA fort.",
+        "action": "Zoom out",
+        "eclairage": "Ring light",
+        "cadrage": "Plan moyen"
+      }
+    },
+
+    "overlays_texte": {
+      "hook": {
+        "texte": "3 cadeaux pour eviter le célibat le 15/02",
+        "timing": "0-4s",
+        "style": "Blanc bold, effet typewriter",
+        "position": "Centre"
+      },
+      "gadget_1": {
+        "texte": "#1 Cinema privé - 89€",
+        "timing": "5-12s",
+        "style": "Jaune/or",
+        "position": "Bas"
+      },
+      "gadget_2": {
+        "texte": "#2 Body sculptant - 35€",
+        "timing": "15-22s",
+        "style": "Rose",
+        "position": "Bas"
+      },
+      "gadget_3": {
+        "texte": "#3 Station de charge - 45€",
+        "timing": "25-32s",
+        "style": "Bleu",
+        "position": "Bas"
+      },
+      "countdown": {
+        "texte": "PLUS QUE 9 JOURS",
+        "timing": "35-40s",
+        "style": "Rouge, pulsing, grande taille",
+        "position": "Centre"
+      },
+      "cta": {
+        "texte": "Lien en bio - Livraison garantie",
+        "timing": "40-45s",
+        "style": "Blanc sur bandeau rose",
+        "position": "Bas"
+      }
+    },
+
+    "script_voix_off": {
+      "ligne_1": "Trois cadeaux pour pas finir célibataire le 15 février.",
+      "ligne_2": "Numéro 1: Le projecteur cinéma. 89 euros. Elle pensera que t'as loué une salle.",
+      "ligne_3": "Numéro 2: Le body sculptant. 35 euros. Le cadeau qui dit 'je veux que tu te sentes incroyable'.",
+      "ligne_4": "Numéro 3: La station de charge. 45 euros. Pour les pragmatiques en couple.",
+      "ligne_5": "Plus que 9 jours. Lien en bio."
+    },
+
+    "musique_suggestions": [
+      "Oh No - Kreepa",
+      "Money - Cardi B",
+      "Boss Bitch - Doja Cat",
+      "Original sound trending"
+    ],
+
+    "caption": "3 cadeaux testés et approuvés pour ne PAS finir célibataire le 15 février.\n\n1. Mini projecteur cinema - 89€ (meilleur que le resto a 150€)\n2. Body sculptant viral - 35€ (le dupe Skims)\n3. Station de charge 3-en-1 - 45€ (pour les couples pratiques)\n\nPlus que 9 jours. La livraison est garantie avant le 14.\n\nDe rien.\nLien en bio.",
+
+    "hashtags": [
+      "#SaintValentin2026",
+      "#CadeauDernièreMinute",
+      "#TikTokMadeMeBuyIt",
+      "#CoupleGoals",
+      "#IdéeCadeau",
+      "#GadgetsViraux",
+      "#DateNight",
+      "#Romantique",
+      "#LastMinute",
+      "#CadeauParfait"
+    ]
+  },
+
+  "calendrier_publication": {
+    "jour_1": {
+      "date": "5 fevrier",
+      "video": "fiche_3_compilation",
+      "heure": "19h00",
+      "urgence": "J-9"
+    },
+    "jour_2": {
+      "date": "6 fevrier",
+      "video": "fiche_1_projecteur",
+      "heure": "12h00",
+      "urgence": "J-8"
+    },
+    "jour_3": {
+      "date": "7 fevrier",
+      "video": "fiche_2_body",
+      "heure": "19h00",
+      "urgence": "J-7"
+    },
+    "jour_4": {
+      "date": "8 fevrier",
+      "video": "Remix fiche_1 (angle different)",
+      "heure": "12h00",
+      "urgence": "J-6"
+    },
+    "jour_5": {
+      "date": "9 fevrier",
+      "video": "Remix fiche_2 (testimonial style)",
+      "heure": "19h00",
+      "urgence": "J-5 DERNIERE SEMAINE"
+    },
+    "jour_6": {
+      "date": "10 fevrier",
+      "video": "URGENCE - Compilation courte",
+      "heure": "12h00 + 19h00",
+      "urgence": "J-4"
+    },
+    "jour_7": {
+      "date": "11 fevrier",
+      "video": "Duet/Stitch reactions",
+      "heure": "12h00 + 19h00",
+      "urgence": "J-3 CRITIQUE"
+    },
+    "jour_8": {
+      "date": "12 fevrier",
+      "video": "LAST CALL - Tous produits",
+      "heure": "10h00 + 15h00 + 20h00",
+      "urgence": "J-2 DERNIERE CHANCE"
+    },
+    "jour_9": {
+      "date": "13 fevrier",
+      "video": "FINAL - Livraison demain impossible",
+      "heure": "Toutes les 4h",
+      "urgence": "DEMAIN C'EST LE 14"
+    }
+  },
+
+  "elements_graphiques": {
+    "badge_urgence": {
+      "texte": "LIVRAISON GARANTIE AVANT LE 14/02",
+      "couleur_fond": "#FF4D6D",
+      "couleur_texte": "#FFFFFF",
+      "style": "Bandeau bas, leger pulse animation"
+    },
+    "countdown": {
+      "format": "J-X",
+      "couleur": "#FF6B8A",
+      "animation": "Pulse ou flip"
+    },
+    "prix_badge": {
+      "style": "Cercle ou rectangle arrondi",
+      "couleur_fond": "#FFD700",
+      "couleur_texte": "#000000"
+    },
+    "logo_drip": {
+      "texte": "DRIP.",
+      "couleur": "#FFFFFF",
+      "position": "Coin superieur droit ou fin de video"
+    }
+  },
+
+  "conseils_tournage": {
+    "eclairage": [
+      "Ring light pour face cam",
+      "Lumiere naturelle pour lifestyle",
+      "Noir total + projecteur pour scene cinema",
+      "Golden hour pour scenes body"
+    ],
+    "cadrage": [
+      "Toujours en format vertical 9:16",
+      "Garder de l'espace pour les overlays texte",
+      "Varier entre gros plans et plans moyens"
+    ],
+    "montage": [
+      "Cuts rapides (2-3 sec max par plan)",
+      "Transitions trending (swipe, zoom, snap)",
+      "Texte qui apparait avec le beat de la musique",
+      "Toujours finir avec CTA + urgence"
+    ]
+  }
+}

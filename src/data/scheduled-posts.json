@@ -1,0 +1,134 @@
+{
+  "brand": "DRIP.",
+  "tiktok_handle": "@drip.store",
+  "week_1_schedule": [
+    {
+      "day": "Lundi",
+      "time": "19:00",
+      "product_id": "mini-projector-2025",
+      "content_type": "unboxing",
+      "hook": "POV: Tu transformes ton plafond en cinéma pour 89€",
+      "caption": "Pourquoi personne m'a parlé de ça avant ? 😭 Ce mini projecteur change tout. 120 pouces sur mon mur. Lien en bio 🔗",
+      "hashtags": ["#tiktokmademebuyit", "#projector", "#cozynights", "#roomsetup", "#fyp", "#viral"],
+      "sound": "Oh No - Kreepa",
+      "duration_sec": 15
+    },
+    {
+      "day": "Mardi",
+      "time": "12:00",
+      "product_id": "portable-blender-usb",
+      "content_type": "pov_relatable",
+      "hook": "Les gens qui dépensent 8€/jour en smoothies 📉",
+      "caption": "Math rapide : 8€ x 365 = 2920€/an. Ce blender : 29€. UNE FOIS. Faites le calcul. Lien en bio 💚",
+      "hashtags": ["#smoothie", "#healthylifestyle", "#moneysaving", "#gymtok", "#fyp"],
+      "sound": "Money - Cardi B",
+      "duration_sec": 12
+    },
+    {
+      "day": "Mercredi",
+      "time": "19:00",
+      "product_id": "shaperx-sculpting-bodysuit",
+      "content_type": "before_after",
+      "hook": "Le Skims dupe que TikTok m'a caché",
+      "caption": "35€ vs 78€. Même effet. Même qualité. Le secret est out. Lien en bio pour les curieuses 👀",
+      "hashtags": ["#skimsdupe", "#shapewear", "#ootd", "#grwm", "#amazonfinds", "#viral"],
+      "sound": "Get Ready With Me - trending",
+      "duration_sec": 15
+    },
+    {
+      "day": "Jeudi",
+      "time": "21:00",
+      "product_id": "wireless-charger-3in1",
+      "content_type": "review",
+      "hook": "Si ton bureau ressemble à ça, on doit parler",
+      "caption": "3 appareils. 1 chargeur. 0 câble visible. Le minimalisme c'est pas compliqué. 45€. Lien en bio ⚡",
+      "hashtags": ["#desksetup", "#minimalist", "#apple", "#techtok", "#satisfying", "#fyp"],
+      "sound": "ASMR satisfying",
+      "duration_sec": 13
+    },
+    {
+      "day": "Vendredi",
+      "time": "19:00",
+      "product_id": "brabic-tummy-control",
+      "content_type": "grwm",
+      "hook": "GRWM mais je vous montre mon secret",
+      "caption": "50M+ vues sur ce body à 19€. Maintenant vous savez pourquoi. Seamless. Invisible. Parfait. Lien en bio 🖤",
+      "hashtags": ["#grwm", "#shapewear", "#outfitinspo", "#tiktokmademebuyit", "#viral"],
+      "sound": "original sound - aesthetic vibes",
+      "duration_sec": 18
+    },
+    {
+      "day": "Samedi",
+      "time": "14:00",
+      "product_id": "all",
+      "content_type": "top_3",
+      "hook": "Top 3 des produits que vous m'avez demandés cette semaine",
+      "caption": "Vous avez voté, voici le classement 🏆 1. Projecteur 2. Bodysuit 3. Blender. Tous en lien dans la bio !",
+      "hashtags": ["#top3", "#tiktokmademebuyit", "#viralproducts", "#fyp", "#trending"],
+      "sound": "trending countdown sound",
+      "duration_sec": 20
+    },
+    {
+      "day": "Dimanche",
+      "time": "20:00",
+      "product_id": "reoria-high-neck-body",
+      "content_type": "lifestyle",
+      "hook": "Ce body à 16€ vs Skims à 64€",
+      "caption": "20K reviews 5 étoiles. 12 coloris. Le basic parfait existe et il coûte 16€. Main character energy. Lien en bio ✨",
+      "hashtags": ["#skimsdupe", "#basics", "#capsulewardrobe", "#ootd", "#fyp"],
+      "sound": "That Girl aesthetic",
+      "duration_sec": 15
+    }
+  ],
+  "automation_tools": {
+    "recommended": [
+      {
+        "name": "Metricool",
+        "price": "12€/mois",
+        "features": ["TikTok scheduling", "Analytics", "Best time to post"]
+      },
+      {
+        "name": "Later",
+        "price": "Gratuit (3 posts/semaine)",
+        "features": ["Visual planner", "Link in bio", "Basic analytics"]
+      },
+      {
+        "name": "Hootsuite",
+        "price": "19€/mois",
+        "features": ["Multi-platform", "Team collab", "Advanced analytics"]
+      }
+    ],
+    "content_creation": [
+      {
+        "name": "CapCut",
+        "price": "Gratuit",
+        "use": "Édition vidéo avec templates viraux"
+      },
+      {
+        "name": "Canva",
+        "price": "Gratuit",
+        "use": "Thumbnails et covers"
+      }
+    ]
+  },
+  "growth_checklist": {
+    "daily": [
+      "Poster 1-2 vidéos",
+      "Répondre à tous les commentaires",
+      "Liker 20 vidéos dans ta niche",
+      "Commenter sur 10 vidéos trending"
+    ],
+    "weekly": [
+      "Analyser les stats (vues, engagement)",
+      "Identifier le contenu qui performe",
+      "Batch-filmer 7 vidéos le dimanche",
+      "Mettre à jour les sons trending"
+    ],
+    "monthly": [
+      "Contacter 5 micro-influenceurs",
+      "Lancer 1 giveaway",
+      "Tester 1 nouvelle format de contenu",
+      "Review des KPIs vs objectifs"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "account_setup": {
+    "name_options": [
+      {
+        "username": "@DripDateNight",
+        "available_check": "A verifier sur tiktok.com",
+        "vibe": "Romantique + Cool"
+      },
+      {
+        "username": "@GetTheDrip.fr",
+        "available_check": "A verifier sur tiktok.com",
+        "vibe": "Premium + Francais"
+      },
+      {
+        "username": "@DripLoveStore",
+        "available_check": "A verifier sur tiktok.com",
+        "vibe": "E-commerce + Amour"
+      }
+    ],
+    "bio": {
+      "text": "Les meilleurs cadeaux pour ta moitie (ou pour toi-meme) | Livraison garantie avant le 14/02 | Shoppe le projecteur viral",
+      "with_emojis": "💖 Les meilleurs cadeaux pour ta moitie | 🚀 Livraison avant le 14/02 | 👇 Projecteur viral en bio"
+    },
+    "profile_image": {
+      "style": "Logo DRIP. avec coeur rose neon",
+      "colors": ["#FF6B8A", "#FF4D6D", "#FFFFFF"],
+      "prompt_for_ai_image": "Minimalist logo, text 'DRIP.' in bold white font, neon pink heart glow behind, dark background, aesthetic e-commerce vibe"
+    },
+    "link_in_bio": "https://drip.store ou linktree vers le site"
+  },
+  "valentine_scripts": {
+    "script_1_projector": {
+      "title": "Cinema Prive - POV Resto Annule",
+      "hook": "POV: Tu as annule le resto pour transformer ta chambre en cinema prive",
+      "duration": "30-45 sec",
+      "script": [
+        "[0-3s] HOOK: Face cam - air complice",
+        "Text: 'Le resto a 150€? Non merci.'",
+        "",
+        "[3-8s] TRANSITION: Montre le projecteur dans sa main",
+        "Voix: 'J'ai trouve mieux. 89€. Une seule fois.'",
+        "",
+        "[8-15s] SETUP: Installation rapide",
+        "Voix: 'Regarde comment c'est simple...'",
+        "Montre: branchement, WiFi, Netflix",
+        "",
+        "[15-25s] REVEAL: Chambre transformee",
+        "Transition: lights off, projection on",
+        "Voix: 'Et voila. Cinema prive. Sur mon plafond.'",
+        "Montre: film + snacks + couvertures",
+        "",
+        "[25-30s] CTA",
+        "Voix: 'Plus romantique qu'un resto. Lien en bio.'",
+        "Text overlay: 'Livraison avant le 14 fev'"
+      ],
+      "sounds": ["original sound - cozy vibes", "Romantic - Dua Lipa", "Until I Found You"],
+      "hashtags": "#saintvalentin #datenight #cadeaustvalentin #projector #tiktokmademebuyit #couple #romantique #fyp"
+    },
+    "script_2_body": {
+      "title": "Le Cadeau Secret - Body Sculptant",
+      "hook": "Le cadeau que toutes les femmes veulent secretement pour se sentir incroyables",
+      "duration": "25-35 sec",
+      "script": [
+        "[0-3s] HOOK: Face cam mysterieuse",
+        "Text: 'Le cadeau qu'elle veut VRAIMENT'",
+        "",
+        "[3-8s] PROBLEM: ",
+        "Voix: 'Les mecs pensent bijoux, parfum...'",
+        "Text: 'Mais elle veut SE SENTIR bien'",
+        "",
+        "[8-18s] SOLUTION: Montre le body",
+        "Voix: 'Ce body? C'est la confiance en soi emballee.'",
+        "Transition: avant/apres (subtil, elegant)",
+        "Voix: 'Seamless. Invisible. Effet wow instantane.'",
+        "",
+        "[18-25s] VALIDATION:",
+        "Voix: '50 millions de vues sur TikTok. Le dupe Skims a 35€.'",
+        "Montre: les 4 couleurs, XS au 3XL",
+        "",
+        "[25-30s] CTA:",
+        "Voix: 'Elle te remerciera. Lien en bio.'",
+        "Text: 'Livraison express avant le 14'"
+      ],
+      "sounds": ["Woman - Doja Cat", "original sound - confidence", "Good Days - SZA"],
+      "hashtags": "#saintvalentin #cadeau #shapewear #skimsdupe #bodypositivity #grwm #fyp #viral"
+    },
+    "script_3_generic": {
+      "title": "3 Gadgets Anti-Celibat",
+      "hook": "3 gadgets a offrir pour ne pas finir celibataire le 15 fevrier",
+      "duration": "35-45 sec",
+      "script": [
+        "[0-3s] HOOK FORT:",
+        "Face cam - air serieux puis sourire",
+        "Text: 'Tu vas me remercier le 15'",
+        "",
+        "[3-12s] GADGET 1 - Projecteur:",
+        "Voix: 'Numero 1: Le projecteur cinema.'",
+        "Montre: projection romantique",
+        "Voix: '89€. Elle pensera que t'as loue une salle.'",
+        "",
+        "[12-22s] GADGET 2 - Body:",
+        "Voix: 'Numero 2: Le body sculptant.'",
+        "Montre: le produit elegant",
+        "Voix: 'Le cadeau qui dit: je veux que tu te sentes incroyable. 35€.'",
+        "",
+        "[22-32s] GADGET 3 - Chargeur:",
+        "Voix: 'Numero 3: La station de charge.'",
+        "Montre: setup clean",
+        "Voix: 'Pour les pragmatiques. Setup couple. 45€.'",
+        "",
+        "[32-40s] CTA URGENCE:",
+        "Voix: 'Plus que quelques jours. Lien en bio.'",
+        "Text: 'J-9 AVANT LE 14/02'",
+        "Countdown visuel"
+      ],
+      "sounds": ["Oh No - Kreepa", "Money - Cardi B", "original sound"],
+      "hashtags": "#saintvalentin #cadeauhomme #cadeaufemme #couple #tiktokmademebuyit #lastminute #fyp"
+    }
+  },
+  "hooks_library": {
+    "projector_hooks": [
+      "POV: Tu as annule le resto pour transformer ta chambre en cinema prive",
+      "Le cadeau a 89€ qui vaut mieux qu'un diner a 200€",
+      "Comment j'ai impressionne ma copine sans quitter le lit",
+      "Netflix sur 120 pouces > Netflix sur ton telephone",
+      "Le date night parfait existe et il coute 89€"
+    ],
+    "body_hooks": [
+      "Le cadeau que toutes les femmes veulent secretement",
+      "Pourquoi le body sculptant est LE cadeau Saint-Valentin",
+      "Le secret des filles qui ont confiance en elles le 14 fevrier",
+      "Ce que ta copine veut vraiment (indice: pas des fleurs)",
+      "Le dupe Skims a 35€ qui a change ma vie"
+    ],
+    "urgency_hooks": [
+      "Plus que 9 jours pour ne pas finir celibataire",
+      "Si tu vois ca, c'est un signe - commande maintenant",
+      "POV: Tu as attendu la derniere minute (encore)",
+      "Le compte a rebours est lance - J-9",
+      "Derniere chance pour une livraison avant le 14"
+    ]
+  },
+  "content_calendar": {
+    "j_minus_9": {
+      "video": "3 gadgets anti-celibat",
+      "urgency": "J-9"
+    },
+    "j_minus_7": {
+      "video": "Projecteur cinema prive",
+      "urgency": "Derniere semaine"
+    },
+    "j_minus_5": {
+      "video": "Body sculptant - le cadeau secret",
+      "urgency": "J-5"
+    },
+    "j_minus_3": {
+      "video": "URGENCE - Commande maintenant",
+      "urgency": "Plus que 3 jours"
+    },
+    "j_minus_1": {
+      "video": "Derniere chance livraison express",
+      "urgency": "DEMAIN C'EST LE 14"
+    }
+  }
+}
